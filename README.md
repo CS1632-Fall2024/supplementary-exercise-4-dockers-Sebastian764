@@ -14,7 +14,7 @@
 # CS 1632 - Software Quality Assurance
 Summer Semester 2024 - Supplementary Exercise 4
 
-* DUE: August 1 (Thursday), 2024 11:59 PM
+* DUE: November 22 (Friday), 2024 11:59 PM
 
 ## Description
 
@@ -586,4 +586,4 @@ When you have done all the tasks you can, please submit "Supplementary Exercise
 whether you were able to complete a task and reflections.  If you were not able
 to complete a task, please mark "No".  For the tasks that you said "No", I
 expect you to explain the issue that prevented you from fulfilling the task on
-the reflections questions at the end of Part 1 and Part 2.
+the reflection questions at the end of Part 1 and Part 2.
