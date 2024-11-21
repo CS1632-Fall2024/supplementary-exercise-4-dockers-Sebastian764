@@ -39,6 +39,9 @@ jobs:
 
       - name: Launch Web Service
         run: docker compose up -d
+
+      - name: Grant execution permissions
+        run: chmod +x ./wait-for-webserver.sh
       
       - name: Wait for web server to be ready
         run: ./wait-for-webserver.sh
